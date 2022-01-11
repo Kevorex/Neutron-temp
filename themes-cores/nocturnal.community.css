@@ -5,26 +5,26 @@
 
 /* Revert for discords new pop-out UI */
 
-.profileBanner-33-uE1{
+.profileBanner-1owKI5{
 	height: 78px;
 }
-.avatarWrapper-3r9PdD{
+.avatarWrapper-eenWra{
 	left: 82px;
 }
-.avatarPositionPremium-3We5Ho{
+.avatarPositionPremium-1zPBq9{
 	top: 140px;
 }
 
-.popoutBanner-19WKGg{
+.popoutBanner-3cqRD9{
 	display: none !important;
 }
-.avatarPositionNormal-aZjAsn{
+.avatarPositionNormal-2jWoC2{
 	left: 82px !important;
 }
 .avatarPositionNormal-1CZUPk{
 	top: 25px !important;
 }
-.headerTop-3vNv-a{
+.headerTop-3GPUSF{
 	text-align: center;
 	border-bottom: none;
 	padding: 124px 16px 1px;
@@ -32,18 +32,18 @@
 .userPopout-3XzG_A .date-YN6TCS{
 	text-align: center;
 }
-.customStatus-oN4ZZY{
+.customStatus-3XAoF9{
 	text-align: center;
 }
-.userPopout-xaxa6l{
+.userPopout-2j1gM4{
 	width: 260px !important;
 }
-.profileBadges-ohc0Vu{
+.profileBadges-2pItdR{
 	max-width: 80px;
 }
 
 /* Blur for main pop-outs */
-.backdrop-1wrmKB{
+.backdrop-2ByYRN{
 	backdrop-filter: blur(2.5px);
 	background: rgba(0, 0, 0, 0.75) !important;
 }
